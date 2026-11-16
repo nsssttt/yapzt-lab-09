@@ -1,0 +1,4 @@
+coverage
+networkx
+pydot
+pytest

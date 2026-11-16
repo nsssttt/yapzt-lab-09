@@ -1,0 +1,8 @@
+[run]
+branch = True
+include =
+    auth.py
+    analysis_examples.py
+
+[report]
+show_missing = True
